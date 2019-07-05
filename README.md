@@ -1,5 +1,13 @@
 # 🖼 Kirby Lightbox-Gallery by [@wottpal](https://twitter.com/wottpal)
 
+This is my fork of the supergreat 
+
+**🖼 Kirby Lightbox-Gallery by [@wottpal](https://twitter.com/wottpal)**
+
+Since it does not look very maintained currently, and there is also no Kirby v3 support I created this fork
+Install like usual basically (put this folder into site/plugins and install the photoswipe components), no warranties
+
+
 <!-- Buttons -->
 ![Release](https://img.shields.io/github/release/wottpal/kirby-lightbox-gallery/all.svg)
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/wottpal/kirby-lightbox-gallery/master/LICENSE)
